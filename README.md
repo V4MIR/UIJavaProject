@@ -7,7 +7,7 @@ Java проект, вариант 6
 
 ![image](https://user-images.githubusercontent.com/84526875/147417405-66f3eef3-0a15-4770-83fa-e34ccd21e578.png)
 
-Частично добавлен график
+Частично добавлен график:
 
 ![image](https://user-images.githubusercontent.com/84526875/147417413-9cd18b85-462c-444d-b1eb-2b42c56c560b.png)
 
